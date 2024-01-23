@@ -1,5 +1,7 @@
 import { StatusBar } from 'expo-status-bar';
 import { StyleSheet, Text, View } from 'react-native';
+import AudioComponent from './component/Audio';
+import SoundComponent from './component/soundfiles';
 
 export default function App() {
   return (
